@@ -1,0 +1,17 @@
+{
+  "name": "CPS-Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "KiiDev",
+  "license": "ISC",
+  "description": "create VPS digitalOcean on WhatsApp",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "cfonts": "^3.3.0",
+    "chalk": "^4.1.2"
+  }
+}
